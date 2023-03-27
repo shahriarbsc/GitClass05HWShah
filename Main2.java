@@ -1,9 +1,7 @@
 public class Main2 {
     public static void main(String[] args) {
 
-        //Hw:
-        //Create a repo on local, have a basic code in it for printing integers from 1 to 10
-        //Push it to github.
+        //Hw: // clone the push repo as being member of project
 
 
         for (int i = 1; i <= 10; i++) {
